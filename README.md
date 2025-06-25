@@ -3,6 +3,14 @@
 
 ---
 
+### ✨ Featured Project
+
+🌙 [**BeatSomnia Web App**](https://elegant-genie-4c21e7.netlify.app) — your personal sleep assistant  
+🔗 **Coming soon:** [BeatSomnia.com](https://beatsomnia.com) — clean domain, same mission  
+🛠 Built with **React + TypeScript**, focused on better sleep through smart tools.
+
+---
+
 ### 💻 GitHub Stats
 
 <p align="center">
@@ -36,7 +44,7 @@
 
 ---
 
-### 📊 My GitHub Contributions
+### 📊 GitHub Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioBogdan11&theme=react-dark" alt="activity graph"/>
@@ -45,6 +53,6 @@
 ---
 
 ### 🎯 Current Focus
-- Building [BeatSomnia](https://beatsomnia.app) mobile app in React Native
-- Learning full-stack development
-- Improving my Git & GitHub workflow
+- 🚀 Launching the BeatSomnia mobile & web apps
+- 📦 Learning full-stack & cloud deployment
+- 🔄 Improving my Git & GitHub workflow
