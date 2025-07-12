@@ -6,7 +6,7 @@
 ### ✨ Featured Project
 
 🌙 [**BeatSomnia Web App**]( https://elegant-genie-4c21e7.netlify.app ) — your personal sleep assistant  
-🔗 **Coming soon:** [BeatSomnia.com](https://beatsomnia.com) — clean domain, same mission  
+🔗 **Coming soon:** [BeatSomnia.com](https://beatsomnia.top) — clean domain, same mission  
 🛠 Built with **React + TypeScript**, focused on better sleep through smart tools.
 
 ---
