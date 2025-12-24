@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
-<h3 align="center">🎮 Game Show Host at ARRISE LIVE | 💻 Front-End/Mobile Dev | Entrepreneur(coffe shop owner)| UTM Student |</h3>
+<h3 align="center">🎮 Game Show Host at ARRISE LIVE | 💻 Front-End/Mobile Dev | Entrepreneur| UTM Student |</h3>
 
 ---
 
