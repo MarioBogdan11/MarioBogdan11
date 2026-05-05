@@ -6,10 +6,10 @@
 ### ✨ Featured Project
 
 SEE MY WORK: [PORTOFOLIO](https://app.netlify.com/projects/bogdansportofolio/overview)
-🌙 [**BeatSomnia Web App**]( https://elegant-genie-4c21e7.netlify.app ) — your personal sleep assistant  
-🔗 **NOW AVAILABLE:** [BeatSomnia.top](https://beatsomnia.top) — clean domain, and eepy nights
-🛠 Built with **React + TypeScript**, focused on better sleep through smart tools.
-🏠 Proiecte La Cheie, a house design website copyed from the [Archipelag](https://www.archipelag.pl/), currently called [Proiectelacheie.ro](https://heartfelt-mermaid-5a5b59.netlify.app/)
+<p>🌙 [**BeatSomnia Web App**]( https://elegant-genie-4c21e7.netlify.app ) — your personal sleep assistant  
+<p></p>🔗 **NOW AVAILABLE:** [BeatSomnia.top](https://beatsomnia.top) — clean domain, and eepy nights
+<p></p>🛠 Built with **React + TypeScript**, focused on better sleep through smart tools.
+<p>🏠 Proiecte La Cheie, a house design website copyed from the [Archipelag](https://www.archipelag.pl/), currently called [Proiectelacheie.ro](https://heartfelt-mermaid-5a5b59.netlify.app/)
 
 ---
 
