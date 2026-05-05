@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
-<h3 align="center">🎮 Game Show Host at ARRISE LIVE | 💻 Front-End/Mobile Dev | Entrepreneur| UTM Student |</h3>
+<h3 align="center"> 💻 Front-End/Mobile/Software Dev  | 🪅🍭Game Show Host at ARRISE LIVE | ☕Entrepreneur | 📖UTM Student |</h3>
 
 ---
 
 ### ✨ Featured Project
 
+SEE MY WORK: [PORTOFOLIO](https://app.netlify.com/projects/bogdansportofolio/overview)
 🌙 [**BeatSomnia Web App**]( https://elegant-genie-4c21e7.netlify.app ) — your personal sleep assistant  
-🔗 **NOW AVAILABLE:** [BeatSomnia.top](https://beatsomnia.top) — clean domain, same mission  
+🔗 **NOW AVAILABLE:** [BeatSomnia.top](https://beatsomnia.top) — clean domain, and eepy nights
 🛠 Built with **React + TypeScript**, focused on better sleep through smart tools.
+🏠 Proiecte La Cheie, a house design website copyed from the [Archipelag](https://www.archipelag.pl/), currently called [Proiectelacheie.ro](https://heartfelt-mermaid-5a5b59.netlify.app/)
 
 ---
 
