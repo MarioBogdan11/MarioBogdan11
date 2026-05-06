@@ -11,7 +11,7 @@
 
 Sunt un dezvoltator pasionat de crearea de soluții digitale interactive, de la aplicații web complexe la experiențe mobile. În paralel cu studiile la **UTM**, îmi gestionez propriile proiecte de antreprenoriat și interacționez cu publicul în calitate de Game Show Host.
 
-- 🎯 **Focus curent:** Lansarea ecosistemului BeatSomnia (Web & Mobile).
+- 🎯 **Focus curent:** Angajat la EOC(Electro Optic Components)
 - 📦 **Învățare:** Full-stack development & Cloud deployment.
 - 🔄 **Workflow:** Optimizarea proceselor de Git și CI/CD.
 
@@ -19,11 +19,12 @@ Sunt un dezvoltator pasionat de crearea de soluții digitale interactive, de la 
 
 ### ✨ Featured Projects
 
-| Proiect | Descriere | Link |
-| :--- | :--- | :--- |
-| 🌙 **BeatSomnia** | Asistent personal pentru somn. Construit cu **React + TypeScript**. | [BeatSomnia.top](https://beatsomnia.top) |
-| 🏠 **Proiecte La Cheie** | Website de prezentare pentru design de case (Inspired by Archipelag). | [Live Demo](https://heartfelt-mermaid-5a5b59.netlify.app/) |
-| 📁 **Portofoliu** | Colecția completă a lucrărilor mele. | [View Portfolio](https://app.netlify.app/projects/bogdansportofolio/overview) |
+| Proiect | Descriere | Tehnologii | Link |
+| :--- | :--- | :--- | :--- |
+| 🌙 **BeatSomnia** | Asistent personal pentru somn și relaxare. | React, TypeScript | [BeatSomnia.top](https://beatsomnia.top) |
+| ⚡ **TurboClean** | Utilitar de optimizare Windows: curățare junk files, system boost și manager de programe. | Python, CustomTkinter | [GitHub Repo](https://github.com/MarioBogdan11/TurboClean) |
+| 🏠 **Proiecte La Cheie** | Platformă web pentru prezentarea proiectelor de arhitectură. | HTML, CSS, JS | [Live Demo](https://heartfelt-mermaid-5a5b59.netlify.app/) |
+| 📁 **Portofoliu** | Colecția completă a lucrărilor mele și parcursul profesional. | React | [View Portfolio](https://app.netlify.app/projects/bogdansportofolio/overview) |
 
 ---
 
