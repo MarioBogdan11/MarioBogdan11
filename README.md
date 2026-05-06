@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
-<h3 align="center"> 💻 Freelancer Front-End/Mobile | 🪖 Software Dev at Electro Optic Components (EOC) | 🪅🍭 Game Show Host at ARRISE LIVE | ☕ Entrepreneur | 📖 UTM Student</h3>
+<h3 align="center"> 💻 Freelancer Front-End/Mobile | 🏗️ Software Dev at <a href="https://electro-optic.ro/ro/">Electro Optic Components</a> | 🍭 <a href="https://www.pragmaticplay.com/en/live-casino/sweet-bonanza-candyland/#">Game Show Host at ARRISE LIVE</a> | ☕ Entrepreneur | 📖 UTM Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MarioBogdan11&label=Profile%20views&color=0e75b6&style=flat" alt="MarioBogdan11" />
@@ -9,10 +9,12 @@
 
 ### 🚀 Despre mine
 
-Sunt un dezvoltator software versatil, activând atât ca **Freelancer** în zona de Front-End și Mobile, cât și ca **Software Developer** în cadrul echipei **Electro Optic Components (EOC)**. Combin tehnică din mediul corporate cu agilitatea antreprenoriatului și energia jobului de Game Show Host.
+Sunt un dezvoltator software versatil, activând atât ca **Freelancer** în zona de Front-End și Mobile, cât și ca **Software Developer** în cadrul echipei [**Electro Optic Components (EOC)**](https://electro-optic.ro/ro/). 
 
-- 🎯 **Focus curent:** Dezvoltare software la **EOC** și scalarea proiectelor personale.
-- 📦 **Învățare:** Full-stack development.
+În paralel cu ingineria, îmi exersez abilitățile de comunicare și entertainment ca [**Game Show Host**](https://www.pragmaticplay.com/en/live-casino/sweet-bonanza-candyland/#) în cadrul **ARRISE LIVE**, prezentând show-uri interactive de top precum *Sweet Bonanza CandyLand*. Această dualitate între cod și live entertainment îmi oferă o perspectivă unică asupra experienței utilizatorului (UX) și a interactivității în timp real.
+
+- 🎯 **Focus curent:** Dezvoltare software industrial la **EOC** și scalarea ecosistemului BeatSomnia.
+- 📦 **Învățare:** Full-stack development & Cloud deployment (AWS/Azure).
 - 🔄 **Workflow:** Automatizare prin CI/CD și perfecționarea arhitecturii de cod.
 - 🎓 **Educație:** Student la **UTM**, pasionat de inovație și eficiență.
 
@@ -33,7 +35,7 @@ Sunt un dezvoltator software versatil, activând atât ca **Freelancer** în zon
 
 <div align="center">
 
-| Limbaje & Framework-uri | Unelte & Tehnologii |
+| Limbaje & Framework-uri | Unelte & Design |
 | :--- | :--- |
 | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) |
