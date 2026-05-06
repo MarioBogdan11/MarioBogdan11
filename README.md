@@ -7,27 +7,29 @@
 
 ---
 
-### 🚀 Despre mine
+### 🚀 About Me
 
-Sunt un dezvoltator software versatil, activând atât ca **Freelancer** în zona de Front-End și Mobile, cât și ca **Software Developer** în cadrul echipei [**Electro Optic Components (EOC)**](https://electro-optic.ro/ro/). 
+I am a versatile software developer, currently active as a **Freelancer** (im also looking for projects) specializing in Front-End and Mobile, as well as a **Software Developer** within the [**Electro Optic Components (EOC)**](https://electro-optic.ro/ro/) team. (my best achievemt yet)
+Parallel to my engineering path, I also have impeccable communication and entertainment skills as a [**Game Show Host**](https://www.pragmaticplay.com/en/live-casino/sweet-bonanza-candyland/#) at **ARRISE LIVE**, presenting top-tier interactive shows like *Sweet Bonanza CandyLand*.
+I'm currently studying Computer Science at <a href="https://www.utm.ro/">UTM(Universitatea Titu Maiorescu)</a>. I've had a passion for computers since I was a kid, probably because I used to break my dad’s laptop all the time and had to learn how to fix it.
+I am also an entrepreneur, co-owning a 5 to go coffee shop franchise in Bucharest, Romania, with my fiancée.
 
-În paralel cu ingineria, îmi exersez abilitățile de comunicare și entertainment ca [**Game Show Host**](https://www.pragmaticplay.com/en/live-casino/sweet-bonanza-candyland/#) în cadrul **ARRISE LIVE**, prezentând show-uri interactive de top precum *Sweet Bonanza CandyLand*. Această dualitate între cod și live entertainment îmi oferă o perspectivă unică asupra experienței utilizatorului (UX) și a interactivității în timp real.
 
-- 🎯 **Focus curent:** Dezvoltare software industrial la **EOC** și scalarea ecosistemului BeatSomnia.
-- 📦 **Învățare:** Full-stack development & Cloud deployment (AWS/Azure).
-- 🔄 **Workflow:** Automatizare prin CI/CD și perfecționarea arhitecturii de cod.
-- 🎓 **Educație:** Student la **UTM**, pasionat de inovație și eficiență.
+- 🎯 **Current Focus:** Industrial software development at **EOC** and scaling the BeatSomnia ecosystem.
+- 📦 **Learning:** Full-stack development & Cloud architecture.
+- 🔄 **Workflow:** Automation through CI/CD and mastering clean code architecture.
+- 🎓 **Education:** Student at **UTM**, passionate about innovation and technical efficiency.
 
 ---
 
 ### ✨ Featured Projects
 
-| Proiect | Descriere | Tehnologii | Link |
+| Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
-| 🌙 **BeatSomnia** | Asistent personal pentru somn și relaxare. | React, TypeScript | [BeatSomnia.top](https://beatsomnia.top) |
-| ⚡ **TurboClean** | Utilitar de optimizare Windows: curățare junk files și system boost. | Python, CustomTkinter | [GitHub Repo](https://github.com/MarioBogdan11/TurboClean) |
-| 🏠 **Proiecte La Cheie** | Platformă web pentru prezentarea proiectelor de arhitectură. | HTML, CSS, JS | [Live Demo](https://heartfelt-mermaid-5a5b59.netlify.app/) |
-| 📁 **Portofoliu** | Colecția completă a lucrărilor mele și parcursul profesional. | React | [View Portfolio](https://app.netlify.app/projects/bogdansportofolio/overview) |
+| 🌙 **BeatSomnia** | Personal assistant for sleep and relaxation. | React, TypeScript | [BeatSomnia.top](https://beatsomnia.top) |
+| ⚡ **TurboClean** | Windows optimization utility: junk file cleanup and system boost. | Python, CustomTkinter | [GitHub Repo](https://github.com/MarioBogdan11/TurboClean) |
+| 🏠 **Proiecte La Cheie** | Web platform for architectural design presentations. | HTML, CSS, JS | [Live Demo](https://heartfelt-mermaid-5a5b59.netlify.app/) |
+| 📁 Want to see more? Chek out my **Portfolio** 📁 | A complete collection of my work and professional journey. | React | [View Portfolio](https://app.netlify.app/projects/bogdansportofolio/overview) |
 
 ---
 
@@ -35,7 +37,7 @@ Sunt un dezvoltator software versatil, activând atât ca **Freelancer** în zon
 
 <div align="center">
 
-| Limbaje & Framework-uri | Unelte & Design |
+| Languages & Frameworks | Tools & Design |
 | :--- | :--- |
 | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white) |
