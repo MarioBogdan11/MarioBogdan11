@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
-<h3 align="center"> 💻 Freelancer Front-End/Mobile | Software Dev. at Electro Optic Components (EOC)   | 🪅🍭 Game Show Host at ARRISE LIVE | ☕ Entrepreneur | 📖 UTM Student</h3>
+<h3 align="center"> 💻 Freelancer Front-End/Mobile | 🏗️ Software Dev at Electro Optic Components (EOC) | 🪅🍭 Game Show Host at ARRISE LIVE | ☕ Entrepreneur | 📖 UTM Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MarioBogdan11&label=Profile%20views&color=0e75b6&style=flat" alt="MarioBogdan11" />
@@ -9,11 +9,12 @@
 
 ### 🚀 Despre mine
 
-Sunt un dezvoltator pasionat de crearea de soluții digitale interactive, de la aplicații web complexe la experiențe mobile. În paralel cu studiile la **UTM**, îmi gestionez propriile proiecte de antreprenoriat și interacționez cu publicul în calitate de Game Show Host.
+Sunt un dezvoltator software versatil, activând atât ca **Freelancer** în zona de Front-End și Mobile, cât și ca **Software Developer** în cadrul echipei **Electro Optic Components (EOC)**. Combin tehnică din mediul corporate cu agilitatea antreprenoriatului și energia jobului de Game Show Host.
 
-- 🎯 **Focus curent:** Angajat la EOC(Electro Optic Components)
-- 📦 **Învățare:** Full-stack development & Cloud deployment.
-- 🔄 **Workflow:** Optimizarea proceselor de Git și CI/CD.
+- 🎯 **Focus curent:** Dezvoltare software la **EOC** și scalarea proiectelor personale.
+- 📦 **Învățare:** Full-stack development.
+- 🔄 **Workflow:** Automatizare prin CI/CD și perfecționarea arhitecturii de cod.
+- 🎓 **Educație:** Student la **UTM**, pasionat de inovație și eficiență.
 
 ---
 
@@ -22,7 +23,7 @@ Sunt un dezvoltator pasionat de crearea de soluții digitale interactive, de la 
 | Proiect | Descriere | Tehnologii | Link |
 | :--- | :--- | :--- | :--- |
 | 🌙 **BeatSomnia** | Asistent personal pentru somn și relaxare. | React, TypeScript | [BeatSomnia.top](https://beatsomnia.top) |
-| ⚡ **TurboClean** | Utilitar de optimizare Windows: curățare junk files, system boost și manager de programe. | Python, CustomTkinter | [GitHub Repo](https://github.com/MarioBogdan11/TurboClean) |
+| ⚡ **TurboClean** | Utilitar de optimizare Windows: curățare junk files și system boost. | Python, CustomTkinter | [GitHub Repo](https://github.com/MarioBogdan11/TurboClean) |
 | 🏠 **Proiecte La Cheie** | Platformă web pentru prezentarea proiectelor de arhitectură. | HTML, CSS, JS | [Live Demo](https://heartfelt-mermaid-5a5b59.netlify.app/) |
 | 📁 **Portofoliu** | Colecția completă a lucrărilor mele și parcursul profesional. | React | [View Portfolio](https://app.netlify.app/projects/bogdansportofolio/overview) |
 
