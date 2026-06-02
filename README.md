@@ -29,7 +29,7 @@ I am also an entrepreneur, co-owning a 5 to go coffee shop franchise in Buchares
 | 🌙 **BeatSomnia** | Personal assistant for sleep and relaxation. | React, TypeScript | [BeatSomnia.top](https://beatsomnia.top) |
 | ⚡ **TurboClean** | Windows optimization utility: junk file cleanup and system boost. | Python, CustomTkinter | [GitHub Repo](https://github.com/MarioBogdan11/TurboClean) |
 | 🏠 **Proiecte La Cheie** | Web platform for architectural design presentations. | HTML, CSS, JS | [Live Demo](https://heartfelt-mermaid-5a5b59.netlify.app/) |
-| 📁 Want to see more? Chek out my **Portfolio** 📁 | A complete collection of my work and professional journey. | React | [View Portfolio](https://app.netlify.app/projects/bogdansportofolio/overview) |
+| 📁 Want to see more? Chek out my **Portfolio** 📁 | A complete collection of my work and professional journey. | React | [View Portfolio](https://bogdansportofolio.netlify.app/) |
 
 ---
 
